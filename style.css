@@ -265,7 +265,7 @@ header #main-header {
 }
 
 .input-text:focus {
-  border: 1px solid #4D90FE;
+      outline: 1px solid #4d90fe;
 }
 
 .hidden {
