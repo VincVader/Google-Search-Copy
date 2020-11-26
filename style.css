@@ -22,6 +22,9 @@ body {
   color: black;
   padding: 6px;
 }
+#nav-bar a:hover {
+  text-decoration: underline;
+}
 
 #logo {
   height: 228px;
@@ -99,6 +102,7 @@ body {
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
   border: 1px solid #dcdcdd;
   padding: 9px 15px;
+  cursor: pointer;
 }
 
 #img-logo-wrapper {
@@ -265,7 +269,7 @@ header #main-header {
 }
 
 .input-text:focus {
-      outline: 1px solid #4d90fe;
+  outline: 1px solid #4d90fe;
 }
 
 .hidden {
@@ -292,4 +296,9 @@ header #main-header {
   line-height: 27px;
   border: none;
   border-radius: 2px;
+  cursor: pointer;
+}
+
+#advanced-submit:hover {
+  background-color: #4a8dfb;
 }
