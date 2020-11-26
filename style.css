@@ -264,6 +264,10 @@ header #main-header {
   font-weight: 700;
 }
 
+.input-text:focus {
+  border: 1px solid #4D90FE;
+}
+
 .hidden {
   visibility: hidden;
 }
