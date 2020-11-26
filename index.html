@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="author" content="VincVader">
+  <title>Google Search</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://kit.fontawesome.com/5f88fa27c0.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <nav id="nav-bar">
+    <a href="imgsearch.html">Image Search</a>
+    <a href="advancedsearch.html">Advanced Search</a>
+  </nav>
+  <div id="logo">
+    <img src="images/google-logo.png" width="272" height="92" alt="google-logo">
+  </div>
+  <div id="form-wrapper">
+    <form id="search-form" action="https://google.com/search">
+      <div class="search-bar">
+        <i class="fas fa-search"></i>
+        <input id="search" type="text" name="q">
+        <button id="mic-button" href="#"><i class="fas fa-microphone"></i></button>
+      </div>
+      <div id="search-buttons">
+        <input type="submit" name="btnK" value="Google Search">
+        <input type="submit" id="lucky" name="btnI" value="I'm Feeling Lucky">
+      </div>
+    </form>
+  </div>
+  <script src='scripts/main.js'></script>
+</body>
+
+</html>
