@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="author" content="VincVader">
+  <title>advanced search</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://kit.fontawesome.com/5f88fa27c0.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div id="top">
+    <div>
+      <a href="index.html"><img id="advanced-logo" src="images/google-logo.png" alt="google-logo"></a>
+    </div>
+  </div>
+  <header>
+    <div id="main-header">Advanced Search</div>
+  </header>
+  <div>
+    <form action="https://google.com/search" id="advanced-form">
+      <div class="flex-item">
+        <div class="label-text" id="lidl-header">Find pages with...</div>
+        <input class="input-text hidden" type="text" disabled>
+        <div class="helper helper-head">To do this in the search box.</div>
+      </div>
+
+      <div class="flex-item"><label class="label-text" for="asq">all these words:</label>
+        <input class="input-text" type="text" name="as_q" id="asq">
+        <div class="helper">Type the important words: <span class="monospace"> tri-colour rat terrier </span></div>
+      </div>
+      <div class="flex-item">
+        <label class="label-text" for="asepq">this exact word or phrase:</label>
+        <input class="input-text" type="text" name="as_epq" id="asepq">
+        <div class="helper">Put exact words in quotes: <span class="monospace">"rat terrier"</span></div>
+      </div>
+      <div class="flex-item">
+        <label class="label-text" for="asoq">any of these words:</label>
+        <input class="input-text" type="text" name="as_oq" id="asoq">
+        <div class="helper">Type <span class="monospace">OR</span> between all the words you want: <span
+            class="monospace"> miniature OR standard </span></div>
+      </div>
+      <div class="flex-item">
+        <label class="label-text" for="aseq">none of these words:</label>
+        <input class="input-text" type="text" name="as_eq" id="aseq">
+        <div class="helper">Put a minus sign just before words that you don't want:<br>
+          <span class="monospace">-rodent</span>, -"<span class="monospace">Jack Russell</span>"
+        </div>
+      </div>
+      <div class="flex-item">
+        <div class="label-text"></div>
+        <div class="input-text fake" disabled><input type="submit" id="advanced-submit" value="Advanced Search"></div>
+        <div class="helper"></div>
+      </div>
+
+    </form>
+  </div>
+</body>
+
+</html>
