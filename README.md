@@ -10,3 +10,8 @@
 ### Advanced search 
 
 ![Advanced search example](https://media.giphy.com/media/ZrhZYXFRpczCkdq8W7/giphy.gif)
+
+### Feeling lucky 
+takes you to the first search result page (skipping search result)
+
+![Feeling lucky expample](https://media.giphy.com/media/4Sfleg9KtJu84YrUOX/giphy.gif)
