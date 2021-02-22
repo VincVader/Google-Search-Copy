@@ -1,7 +1,7 @@
 # Copy of the google search
 
 ### Search page
-![Search page example](https://media.giphy.com/media/T14oKqllmkRmquHenq/giphy.gif)
+![Search page example](https://media.giphy.com/media/mNrB5poqIzYedJa4F5/giphy.gif)
 
 ### Image Search
 
