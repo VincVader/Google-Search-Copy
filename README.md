@@ -1,5 +1,7 @@
 # Copy of the google search
 
+## Copy vs Original
+![comparing original and my copy](https://media.giphy.com/media/tCYAsJcj77Apgut7H7/giphy.gif)
 
 
 ### Search page
