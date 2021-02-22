@@ -15,7 +15,7 @@
 
 ### Feeling lucky 
 takes you to the first search result page (skipping search result)
-![Feeling lucky expample](https://media.giphy.com/media/4Sfleg9KtJu84YrUOX/giphy.gif)
+![Feeling lucky expample](https://media.giphy.com/media/7SkRQir65iBA38LlIF/giphy.gif)
 
 #### You can watch the full video on the YouTube *(timestamps included)*
 [VincVader: google search copy](https://www.youtube.com/watch?v=ZiCVcxR0Rwg)
