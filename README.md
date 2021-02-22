@@ -6,3 +6,7 @@
 ### Image Search
 
 ![Image search example](https://media.giphy.com/media/UJ6b6AKA6pk1WphyBC/giphy.gif)
+
+### Advanced search 
+
+![Advanced search example](https://media.giphy.com/media/ZrhZYXFRpczCkdq8W7/giphy.gif)
