@@ -5,4 +5,4 @@
 
 ### Image Search
 
-![Image search example](https://giphy.com/gifs/UJ6b6AKA6pk1WphyBC/html5)
+![Image search example](https://media.giphy.com/media/UJ6b6AKA6pk1WphyBC/giphy.gif)
