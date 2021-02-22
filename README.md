@@ -1,7 +1,9 @@
 # Copy of the google search
+multiple pages:
 ![Showing multiple pages](https://media.giphy.com/media/T7JzADSunE5wI2mm4a/giphy.gif)
 
 ### Copy vs Original
+almost identical
 ![comparing original and my copy](https://media.giphy.com/media/tCYAsJcj77Apgut7H7/giphy.gif)
 
 ### Search page
