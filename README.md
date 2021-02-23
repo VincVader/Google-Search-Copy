@@ -1,21 +1,22 @@
 # Copy of the google search
-written with **HTML** and **CSS**
+
+### Written using:
+* HTML
+* CSS
 
 #### You can watch the video presentation on the YouTube *(timestamps included)*
 [VincVader: google search copy](https://www.youtube.com/watch?v=ZiCVcxR0Rwg)
 
 1. [Many pages](#multiple-pages)
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
-
-
-
+2. [Сomparison](#copy-vs-original)
+3. [Search query](#search-page)
+4. [Image search](#image-search)
+5. [Advanced search](#advaced-search)
+6. [Lucky search](#feeling-lucky)
 
 ##
-#### Multiple pages:
+
+### Multiple pages:
 ![Showing multiple pages](https://media.giphy.com/media/T7JzADSunE5wI2mm4a/giphy.gif)
 
 ### Copy vs Original
