@@ -1,4 +1,5 @@
 # Copy of the google search
+written with **HTML** and **CSS**
 
 #### You can watch the video presentation on the YouTube *(timestamps included)*
 [VincVader: google search copy](https://www.youtube.com/watch?v=ZiCVcxR0Rwg)
