@@ -7,11 +7,12 @@
 #### You can watch the video presentation on the YouTube *(timestamps included)*
 [VincVader: google search copy](https://www.youtube.com/watch?v=ZiCVcxR0Rwg)
 
+### Readme Navigation
 1. [Many pages](#multiple-pages)
 2. [Сomparison](#copy-vs-original)
 3. [Search query](#search-page)
 4. [Image search](#image-search)
-5. [Advanced search](#advaced-search)
+5. [Advanced search](#advanced-search)
 6. [Lucky search](#feeling-lucky)
 
 ##
