@@ -4,8 +4,18 @@ written with **HTML** and **CSS**
 #### You can watch the video presentation on the YouTube *(timestamps included)*
 [VincVader: google search copy](https://www.youtube.com/watch?v=ZiCVcxR0Rwg)
 
+1. [Many pages](#multiple-pages)
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+
+
+
+
 ##
-#### multiple pages:
+#### Multiple pages:
 ![Showing multiple pages](https://media.giphy.com/media/T7JzADSunE5wI2mm4a/giphy.gif)
 
 ### Copy vs Original
